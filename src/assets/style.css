@@ -1,0 +1,33 @@
+.first{
+    width: 350px;
+  margin: auto;
+  
+}
+
+
+ .Submit {background-image: linear-gradient(to right, #43cea2 0%, #185a9d  51%, #43cea2  100%)}
+         .Submit {
+            margin: -33px 200px;
+            padding: 10px 1px;
+           font-size: 12px;
+           width: 240px;
+           opacity: 0.6;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+            border: 0;
+            
+            
+            
+          }
+
+          .Submit:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+         
